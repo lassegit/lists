@@ -1,13 +1,16 @@
 Travel plans for 2018: Germany 🇩🇪
-- Hamburg
-- Bremen
-- Rostock
-- Magdeburg
-- Dortmund
-- Köln
-- Frankfurt
-- Saarbrücken
-- Stuttgart
-- Nuremberg
-- Bamberg
-- München
+
+- [Freie und Hansestadt Hamburg, HH](https://de.wikipedia.org/wiki/Hamburg)
+- [Freie Hansestadt Bremen, HB](https://de.wikipedia.org/wiki/Bremen)
+- [Aachen, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Aachen)
+- [Hansestadt Rostock, Mecklenburg-Vorpommern](https://de.wikipedia.org/wiki/Rostock)
+- [Magdeburg, Sachsen-Anhalt](https://de.wikipedia.org/wiki/Magdeburg)
+- [Dortmund, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Dortmund)
+- [Köln, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/K%C3%B6ln)
+- [Frankfurt am Main, Hessen](https://de.wikipedia.org/wiki/Frankfurt_am_Main)
+- [Saarbrücken, Saarland](https://de.wikipedia.org/wiki/Saarbr%C3%BCcken)
+- [Stuttgart, Baden-Württemberg](https://de.wikipedia.org/wiki/Stuttgart)
+- [Freiburg im Breisgau, Baden-Württemberg](https://de.wikipedia.org/wiki/Freiburg_im_Breisgau)
+- [Nürnberg, Bayern, Mittelfranken](https://de.wikipedia.org/wiki/N%C3%BCrnberg)
+- [Bamberg, Bayern, Oberfranken](https://de.wikipedia.org/wiki/Bamberg)
+- [München, Oberbayern](https://de.wikipedia.org/wiki/M%C3%BCnchen)
