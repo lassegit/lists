@@ -1,1 +1,13 @@
-# travel
+Travel plans for 2018: Germany 🇩🇪
+- Hamburg
+- Bremen
+- Rostock
+- Magdeburg
+- Dortmund
+- Köln
+- Frankfurt
+- Saarbrücken
+- Stuttgart
+- Nuremberg
+- Bamberg
+- München
