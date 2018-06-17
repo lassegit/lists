@@ -1,7 +1,7 @@
 Travel plans for 2018: Germany 🇩🇪
 
-- [Freie und Hansestadt Hamburg, HH](https://de.wikipedia.org/wiki/Hamburg)
-- [Freie Hansestadt Bremen, HB](https://de.wikipedia.org/wiki/Bremen)
+- [Freie und Hansestadt Hamburg](https://de.wikipedia.org/wiki/Hamburg)
+- [Freie Hansestadt Bremen](https://de.wikipedia.org/wiki/Bremen)
 - [Hildesheim, Niedersachsen](https://de.wikipedia.org/wiki/Hildesheim)
 - [Aachen, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Aachen)
 - [Hansestadt Rostock, Mecklenburg-Vorpommern](https://de.wikipedia.org/wiki/Rostock)
