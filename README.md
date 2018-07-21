@@ -15,3 +15,4 @@
 13. [Nürnberg, Bayern, Mittelfranken](https://de.wikipedia.org/wiki/N%C3%BCrnberg)
 14. [Bamberg, Bayern, Oberfranken](https://de.wikipedia.org/wiki/Bamberg)
 15. [München, Oberbayern](https://de.wikipedia.org/wiki/M%C3%BCnchen)
+16. [Erfurt, Thüringen](https://de.wikipedia.org/wiki/Erfurt)
