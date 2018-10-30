@@ -1,6 +1,6 @@
 # Reisepläne: Reiseziel Deutschland 🇩🇪
 
-1. [Freie und Hansestadt Hamburg](https://de.wikipedia.org/wiki/Hamburg) ✅
+1. [Freie und Hansestadt Hamburg](https://de.wikipedia.org/wiki/Hamburg) - ✔
 2. [Freie Hansestadt Bremen](https://de.wikipedia.org/wiki/Bremen)
 3. [Hildesheim, Niedersachsen](https://de.wikipedia.org/wiki/Hildesheim)
 4. [Aachen, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Aachen)
