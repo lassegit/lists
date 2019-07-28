@@ -20,5 +20,4 @@
 13. [Freiburg im Breisgau, Baden-Württemberg](https://de.wikipedia.org/wiki/Freiburg_im_Breisgau)
 14. [Nürnberg, Bayern, Mittelfranken](https://de.wikipedia.org/wiki/N%C3%BCrnberg)
 15. [Bamberg, Bayern, Oberfranken](https://de.wikipedia.org/wiki/Bamberg)
-16. [München, Oberbayern](https://de.wikipedia.org/wiki/M%C3%BCnchen)
-17. [Erfurt, Thüringen](https://de.wikipedia.org/wiki/Erfurt)
+16. [Erfurt, Thüringen](https://de.wikipedia.org/wiki/Erfurt)
