@@ -17,3 +17,5 @@
 15. [München, Oberbayern](https://de.wikipedia.org/wiki/M%C3%BCnchen)
 16. [Trier,  Rheinland-Pfalz](https://de.wikipedia.org/wiki/Trier)
 17. [Erfurt, Thüringen](https://de.wikipedia.org/wiki/Erfurt)
+18. [Leipzig, Sachsen](https://de.wikipedia.org/wiki/Leipzig)
+
