@@ -5,7 +5,7 @@
 3. [Hildesheim, Niedersachsen](https://de.wikipedia.org/wiki/Hildesheim)
 4. [Aachen, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Aachen)
 5. [Hansestadt Rostock, Mecklenburg-Vorpommern](https://de.wikipedia.org/wiki/Rostock)
-6. [Magdeburg, Sachsen-Anhalt](https://de.wikipedia.org/wiki/Magdeburg)
+6. ~~[Magdeburg, Sachsen-Anhalt](https://de.wikipedia.org/wiki/Magdeburg)~~ - ✔
 7. [Dortmund, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/Dortmund)
 8. [Köln, Nordrhein-Westfalen](https://de.wikipedia.org/wiki/K%C3%B6ln)
 9. [Frankfurt am Main, Hessen](https://de.wikipedia.org/wiki/Frankfurt_am_Main)
@@ -18,4 +18,3 @@
 16. [Trier,  Rheinland-Pfalz](https://de.wikipedia.org/wiki/Trier)
 17. [Erfurt, Thüringen](https://de.wikipedia.org/wiki/Erfurt)
 18. [Leipzig, Sachsen](https://de.wikipedia.org/wiki/Leipzig)
-
